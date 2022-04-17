@@ -1,7 +1,7 @@
 ---
 title: "Group Work Plan"
 subtitle: "STT2860 S22 Project 02"
-author: "Authors: ALL GROUP MEMBER NAMES HERE"
+author: "Authors: Sally Campell, Zoe Roebino, Juldyz Woodis"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -12,14 +12,15 @@ output:
 
 **Work Plan/Assignments**
 
-ERASE THIS TEXT AND OUTLINE/EXPLAIN YOUR PLAN FOR COMPLETING THE PROJECT WORK
+Getting together as much as possible throughout the Coming weeks to work collectively on this project.
 
 **Completion Timeline**
 
-ERASE THIS TEXT AND OUTLINE/EXPLAIN YOUR PLANNED TIMELINE FOR TASK COMLETION
+We'd Like to get together most of our info and answers by April 4th and fine tune until the 11th.
 
 **Communication Plan**
 
-ERASE THIS TEXT AND OUTLINE/EXPLAIN YOUR PLAN FOR GROUP COMMUNICATION
+Text, call and email one another as frequently as needed.
 
 ***
+
