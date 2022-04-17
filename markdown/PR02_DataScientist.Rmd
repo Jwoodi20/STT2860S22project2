@@ -1,7 +1,7 @@
 ---
 title: "Becoming a Data Scientist"
 subtitle: "STT2860 S22 Project 02"
-author: "Author: YOUR NAME HERE"
+author: "Author: Juldyz Woodis"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -12,38 +12,38 @@ output:
 
 **Q1: What is the name of the person interviewed?**
 
-ANSWER:
+ANSWER: Rady Olson
 
 **Q2: Why did you choose the particular interview you did?**
 
-ANSWER:
+ANSWER: Because he does Biomedial Infomatics as UPENN and UPENN is one of my favorite universities.
 
 **Q3: Does the person consider themselves a data scientist?**
 
-ANSWER:
+ANSWER: Yes
 
 **Q4: What is their formal and self-taught education in data science?**
 
-ANSWER:
+ANSWER: Before Mr.olson attended college, he took an AP computer science program with the intention of immersing himself in the computer sciences. That class was basically easy visual stats made to be an imersive and informative introduction to coding as a whol. Mr.Olson does also add that computer science at the time wasn't really discussed in college as a legitamate career path, despite this he still attended college and pursued the tech field. Although at first it was computer and information technology, but when his peers and professors saw his inate ability to code and comprehend, they reccomended him to the computer science major, one which suited Mr.Olson more. 
 
 **Q5: What has been their career path? Did they start off in data science?**
 
-ANSWER:
+ANSWER: In Mr.Olson's final year of undergradute, the artificial intelligence field caught his attention causing him to do a year long intership with the president of artificial intelligence at the University of Central Florida, Kenneth Stanley. After graduation he tried to pursue programming for about a year and a half but found that it wasn't his scene. He decided to pursue AI due to his prior interest and him being a "gamer nerd", and went to Michigan to work in that field full time while attaining his PHD and learning about evolutionary algorithims. 
 
 **Q6: What programs/technologies to they use when working in data science?**
 
-ANSWER:
+ANSWER: Python, C++, AI and Evolutionary algorithims
 
 **Q7: What is one interesting (to you) data science problem they have worked on?**
 
-ANSWER:
+ANSWER: I think his coding for where's Walso and Chess was most interesting. The Idea of coding an entire chess game based on hundreds of thousands of outcomes is highly interesting. It's like learning what the computer you play against online knows.
 
 **Q8: Are there any specific pieces of advice they gave that inspire/resonate with you?**
 
-ANSWER:
+ANSWER: To research and discover. Don't rush into something you're not ready for because you need a job or degree. Take your time and learn, you'll make leaps and bounds later on in life as a result.
 
 **Q9: Was there anything that surprised you or that you particularly identified with?**
 
-ANSWER:
+ANSWER: I liked that he didn't set boundaries, because technically coding is limitless. There are always tons of variations and ways to do things that make life more interesting and may even improve the lives of others. When I think of what I want to do, it center around improving the lives of others in my generation and in the future generations, which involves crossing and creating boundaries that only grow. Making me and other educators and educatee's limitless. That only comes with exploration, research, and a willingness to learn and break boundaries.
 
 ***
